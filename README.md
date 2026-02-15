@@ -60,9 +60,7 @@ This repository contains the tasks completed during my Data Science & Analytics 
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
-- XGBoost  
-- SHAP / LIME  
-- Prophet  
+- SHAP
 - Streamlit  
 - Jupyter Notebook  
 
